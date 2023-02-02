@@ -1,0 +1,13 @@
+.root{
+  display: flex;
+    justify-content: center;
+}
+.block {
+  background-color: rgb(132, 177, 235);
+  padding: 50px;
+  width: 300px;
+  border-radius: 25px;
+}
+.input {
+  background-color: rgb(179, 157, 201);
+}
